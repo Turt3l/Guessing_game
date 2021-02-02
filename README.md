@@ -1,2 +1,3 @@
-# Guessing_game
-This is my attempt at making a hard puzzle game in python
+This is my attempt making a little puzzle game.
+It consists of a single question.
+Have fun! :D
